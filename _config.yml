@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LakeView Manor Vacation Rental Review - Eden, VT
+title: LakeView Manor - Eden, VT - Vacation Rental Review 
 email: #
 description: >- 
   This review is re-posted with the addition of media files from VRBO for the listing at https://www.airbnb.com/rooms/28050331?source_impression_id=p3_1667843314_77kMzIG9Y6bvPASe

@@ -47,7 +47,7 @@ If you are looking to spend time outside, then house may be a good fit, but if y
 <br/><br/>
 I documented everything we experienced with photos and sent them to the owner. I requested a fair partial refund (reimbursement of the cleaning fee and the amount of value for the unusable room) and he offered me $100. 
 <br/><br/>
-Owner communication was civil up until he realized I was expecting a refund, then he accused me of lying about my complaints. If you want to read the entire correspondence and view photos, search Lakeview Manor Eden review with your favorite search engine for details.
+Owner communication was civil up until he realized I was expecting a refund, then he accused me of lying about my complaints
 <br/><br/>
 Apparently, the owner was more concerned about the investments he had made into the property then combating us in a clean, safe space.
 <br/><br/>

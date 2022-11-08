@@ -1,16 +1,27 @@
-# lakeviewmanorreview
-a review of Lakeview Manor Vacation Rental in Eden VT Oct 2022
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 
 
-This review is reposted with the addition of media files from VRBO for the listing at:
+This review has been reposted with the addition of media files and property owner correspondence from VRBO for the listing of a home named:
+
+## LakeView Manor in Eden VT
+### listed at:
 https://www.airbnb.com/rooms/28050331?source_impression_id=p3_1667843314_77kMzIG9Y6bvPASe
 
-the property is cross-listed on AirBnB at:
+### the property is cross-listed on AirBnB at:
 https://www.airbnb.com/rooms/28050331
 
+For more information contact VRBO at and reference case number 106128885
 
 
-#Unclean. Has Mice and Mold. Property Not as Represented - One Bedroom Unusable. Otherwise nice spot.
+
+### Review Content:
+
+# Unclean. Has Mice and Mold. Property Not as Represented - One Bedroom Unusable. Otherwise nice spot.
 
 We booked this house for a short trip with my extended family. Unfortunately, the property was in poor shape when we arrived. 
 

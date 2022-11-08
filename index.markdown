@@ -7,13 +7,13 @@ layout: home
 
 This page is a a review of a VRBO and AirBNB property called <b>Lake View Manor</b> in Eden Vermont.
 
-We stayed there in October 2022. The home was not clean, had an unusable bedroom that reeked of mildew, and had rodents (we watched mice scurry through the living room). I documented these and other complaints and emailed the owner, but was met with little empathy, an abrasive response, and an inadequate compensation. 
+We stayed there in October 2022. The home was not clean, had an unusable bedroom that reeked of mildew, and had rodents (we watched mice scurry through the living room). I documented these and other complaints and emailed the owner, but was met with little empathy, an abrasive response, and inadequate compensation. 
 
-For their part, VRBO does not consider vermin and mold safety hazards, such that they will not dock the listing. And for anyone reading this, it is imperative that if you have any complaint about a VRBO property, you need to contact them (not the host) directly in the first 24 hours of your stay. Otherwise, VRBO remits all funds to the host and cannot (will not) offer any monetary compensation for your troubles.
+For their part, VRBO does not consider vermin nor mold safety hazards and they refused to dock the listing. Also, it is imperative that if you have any complaints about a VRBO property, you must contact VRBO directly (not the host) in the first 24 hours of your stay. Otherwise, VRBO remits all funds to the host and cannot (will not) offer any monetary compensation for your troubles.
 
-Following the non-amicable resolution with the host, my only recourse is to leave a review on the VRBO site. For the long record I am posting it here. 
+Following the non-amicable resolution with the host, my only recourse was to leave a review on the VRBO site. For the long record I am posting it here. 
 
-Below you can read the review in entirety, view photos that I could not attach to the review, and read my full correspondence with the host detailing my original complaints, and the resolution (a partial refund that didn't even cover the 'cleaning' fee).
+Below you can read the review in entirety, view photos that I could not attach to the review, read my full correspondence with the host detailing my original complaints, and see the resolution (a partial refund that didn't even cover the 'cleaning' fee).
 <br/><br/>
 <hr/>
 

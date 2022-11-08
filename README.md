@@ -10,7 +10,7 @@ https://www.airbnb.com/rooms/28050331
 
 
 
-#Unclean. Has Mice and Mold. Property Not as Represented - One Bedroom Unusable. Otherwise nice spot.
+#Home is Unclean; Has Mice and Mold. Property Not as Represented. One Bedroom Unusable. Otherwise nice spot.
 
 We booked this house for a short trip with my extended family. Unfortunately, the property was in poor shape when we arrived. 
 

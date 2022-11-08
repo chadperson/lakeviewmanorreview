@@ -19,14 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: LakeView Manor Vacation Rental Review - Eden, VT
-email: #your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-    
-  This review is reposted with the addition of media files from VRBO for the listing at:
-  https://www.airbnb.com/rooms/28050331?source_impression_id=p3_1667843314_77kMzIG9Y6bvPASe
-
-  the property is cross-listed on AirBnB at:
-  https://www.airbnb.com/rooms/28050331
+email: #
+description: >- 
+  This review is re-posted with the addition of media files from VRBO for the listing at https://www.airbnb.com/rooms/28050331?source_impression_id=p3_1667843314_77kMzIG9Y6bvPASe
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #
